@@ -8,7 +8,7 @@ import locale
 locale.setlocale(locale.LC_ALL, 'tr_TR.utf8')
 
 url = 'https://notify-api.line.me/api/notify'
-token = 'BycSzifdRdq8znBVIo3ZJFZ94WejWF8KqRFRL157f72'
+token = '********************************'
 headers = {'content-type':'application/x-www-form-urlencoded','Authorization':'Bearer '+token}
 
 date = datetime.datetime.now()
