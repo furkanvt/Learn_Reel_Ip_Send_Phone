@@ -1,5 +1,5 @@
 # Learn_Reel_Ip_Send_Phone
-Statik olmayan ıpler İçin anlık çalışçan script ile ip öğrenme
+Statik olmayan ipler için anlık çalışan script ile ip öğrenme
 
 İlk önce https://notify-bot.line.me/en/ adresinden log in olunur.
 Profilden My Page alanından Generate Access Token ile Token üretilir.
